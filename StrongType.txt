@@ -1,0 +1,21 @@
+usin System;
+
+namespace Demo
+{
+    /A simple application usin C#
+
+    class Program
+    {
+        //The main function
+        static void Main(String[] args)
+        {
+            // Initiatilizing a variable
+            int i=5
+            j = 6;
+
+            //Displaying the variableConsole.Write("The value is " + i);
+
+            console.Read();
+        }
+    }
+}
