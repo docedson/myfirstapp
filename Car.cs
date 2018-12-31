@@ -1,6 +1,9 @@
+using System;
+
+// This name space represents the file folder that the class is in.
 namespace classwork
 {
-    // The following House is a class
+    // The following Car is a class
     public class Car
     {
         // The following strings are fields
@@ -11,7 +14,7 @@ namespace classwork
         // string _model;
 
         // Standard long way of Property
-        public string Tire {
+        public string TypeTire {
             get {
                 return _tires;
             }
@@ -45,9 +48,9 @@ namespace classwork
         public string YearMake { get; set; }
 
         // The following are methods
-        public void Drive()
+        public void EngageTire()
         {
-
+            Console.WriteLine("Spiked");
         }
 
         public void Park()
