@@ -53,15 +53,25 @@ namespace classwork
             Console.WriteLine("Spiked");
         }
 
-        public void Park()
+        public void ShadeWindow()
         {
-
+            Console.WriteLine("Tinted");
         }
 
-        public void Drift()
+        public void ClosedDoor()
         {
-
+            Console.WriteLine("Four Doors");
         }
         
+        public void Octane()
+        {
+            Console.WriteLine("On Empty");
+        }
+
+        public void KiaRio()
+        {
+            Console.WriteLine("Kia 2009");
+            Console.WriteLine("another test");
+        }
     }
 }
