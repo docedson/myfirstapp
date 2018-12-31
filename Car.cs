@@ -68,7 +68,7 @@ namespace classwork
             Console.WriteLine("On Empty");
         }
 
-        public void KiaRio()
+        public void TypeOfCar()
         {
             Console.WriteLine("Kia 2009");
             Console.WriteLine("another test");
