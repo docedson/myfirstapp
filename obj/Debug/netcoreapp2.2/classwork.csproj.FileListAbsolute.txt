@@ -9,3 +9,14 @@ C:\Users\classroom\MyRepository\classwork\obj\Debug\netcoreapp2.2\classwork.Asse
 C:\Users\classroom\MyRepository\classwork\obj\Debug\netcoreapp2.2\classwork.AssemblyInfo.cs
 C:\Users\classroom\MyRepository\classwork\obj\Debug\netcoreapp2.2\classwork.dll
 C:\Users\classroom\MyRepository\classwork\obj\Debug\netcoreapp2.2\classwork.pdb
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\bin\Debug\netcoreapp2.2\classwork.deps.json
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\bin\Debug\netcoreapp2.2\classwork.runtimeconfig.json
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\bin\Debug\netcoreapp2.2\classwork.runtimeconfig.dev.json
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\bin\Debug\netcoreapp2.2\classwork.dll
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\bin\Debug\netcoreapp2.2\classwork.pdb
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.csprojAssemblyReference.cache
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.csproj.CoreCompileInputs.cache
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.AssemblyInfoInputs.cache
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.AssemblyInfo.cs
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.dll
+C:\Users\classroom\CleaningUp\MyRepositoryA\classwork\obj\Debug\netcoreapp2.2\classwork.pdb
