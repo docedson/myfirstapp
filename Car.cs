@@ -14,45 +14,35 @@ namespace classwork
         // string _model;
 
         // Standard long way of Property
-        public string TypeTire
-        {
-            get
-            {
+        public string TypeTire {
+            get {
                 return _tires;
             }
-            set
-            {
+            set {
                 this._tires = value;
             }
         }
 
-        public string Window
-        {
-            get
-            {
+        public string Window {
+            get {
                 return _windows;
             }
-            set
-            {
+            set{
                 this._windows = value;
             }
-
+        
         }
 
-        public string Door
-        {
-            get
-            {
+        public string Door {
+            get {
                 return _doors;
             }
-            set
-            {
+            set {
                 this._doors = value;
             }
         }
 
-        // Shortcut way of a property + field
-             
+        // Shorthand way of a Property + field
         public string Gas { get; set; }
 
         public string YearMake { get; set; }
@@ -72,7 +62,7 @@ namespace classwork
         {
             Console.WriteLine("Four Doors");
         }
-
+        
         public void Octane()
         {
             Console.WriteLine("On Empty");
