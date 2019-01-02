@@ -51,13 +51,8 @@ namespace classwork
             }
         }
 
-        // Shorthand way of a Property + field
-        public Car(string gas, string yearMake)
-        {
-            this.Gas = gas;
-            this.YearMake = yearMake;
-
-        }
+        // Shortcut way of a property + field
+             
         public string Gas { get; set; }
 
         public string YearMake { get; set; }
