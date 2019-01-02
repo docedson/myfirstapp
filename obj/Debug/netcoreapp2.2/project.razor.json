@@ -1,6 +1,14 @@
 {
-  "ProjectFilePath": "c:\\Users\\classroom\\CleaningUp\\MyRepositoryA\\classwork\\classwork.csproj",
+  "ProjectFilePath": "c:\\Users\\classroom\\MyRepository\\classwork\\classwork.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }
