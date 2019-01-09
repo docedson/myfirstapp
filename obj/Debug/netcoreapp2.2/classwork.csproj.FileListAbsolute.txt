@@ -20,3 +20,14 @@ C:\Users\classroom\MyRepository\DontUse\myfirstapp\obj\Debug\netcoreapp2.2\class
 C:\Users\classroom\MyRepository\DontUse\myfirstapp\obj\Debug\netcoreapp2.2\classwork.AssemblyInfo.cs
 C:\Users\classroom\MyRepository\DontUse\myfirstapp\obj\Debug\netcoreapp2.2\classwork.dll
 C:\Users\classroom\MyRepository\DontUse\myfirstapp\obj\Debug\netcoreapp2.2\classwork.pdb
+C:\Users\classroom\MyRepository\myfirstapp\bin\Debug\netcoreapp2.2\classwork.deps.json
+C:\Users\classroom\MyRepository\myfirstapp\bin\Debug\netcoreapp2.2\classwork.runtimeconfig.json
+C:\Users\classroom\MyRepository\myfirstapp\bin\Debug\netcoreapp2.2\classwork.runtimeconfig.dev.json
+C:\Users\classroom\MyRepository\myfirstapp\bin\Debug\netcoreapp2.2\classwork.dll
+C:\Users\classroom\MyRepository\myfirstapp\bin\Debug\netcoreapp2.2\classwork.pdb
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.csprojAssemblyReference.cache
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.csproj.CoreCompileInputs.cache
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.AssemblyInfoInputs.cache
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.AssemblyInfo.cs
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.dll
+C:\Users\classroom\MyRepository\myfirstapp\obj\Debug\netcoreapp2.2\classwork.pdb

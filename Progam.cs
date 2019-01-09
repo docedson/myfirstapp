@@ -2,18 +2,18 @@ using System;
 
 namespace classwork
 {
-    class Hello 
+    class Hello
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
 
             // Created object instance of Car called myCar
             Car myCar = new Car();
             // This sets the value of Spiked to the object
             myCar.TypeTire = "Spiked";
             myCar.EngageTire(); // The spikes are engaged
-                
+
             // This is a second object instance of Car
             Car mySecondCar = new Car();
             mySecondCar.TypeTire = "Nubbed";
@@ -34,9 +34,9 @@ namespace classwork
 
             new Car();
             myCar.TypeOfCar();
-           
-            
-            
+
+
+
         }
     }
 }
