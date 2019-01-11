@@ -36,7 +36,6 @@ namespace classwork
             {
                 this._windows = value;
             }
-
         }
 
         public string Door
@@ -82,5 +81,13 @@ namespace classwork
             Console.WriteLine("Kia 2009");
             Console.WriteLine("another test");
         }
+
+
+
+
+
+
+
+
     }
 }

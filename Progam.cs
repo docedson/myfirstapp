@@ -2,12 +2,10 @@ using System;
 
 namespace classwork
 {
-    class Hello
+    class Program
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
-
             // Created object instance of Car called myCar
             Car myCar = new Car();
             // This sets the value of Spiked to the object
